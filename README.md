@@ -3,6 +3,7 @@ This page contains free resources to help children learn while at home during th
 ### Other Collections
 
 * [amazingeducationalresources.com](http://www.amazingeducationalresources.com/) - Collection of hundreds of additional free learning resources.
+* [https://www.schools.nyc.gov/learning/learn-at-home](https://www.schools.nyc.gov/learning/learn-at-home)
 
 ### General
 
