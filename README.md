@@ -1,6 +1,7 @@
 This page contains free resources to help children learn while at home during the 2020 COVID-19 (Coronavirus) pandemic.
 
 ### Other Collections
+
 * [amazingeducationalresources.com](http://www.amazingeducationalresources.com/) - Collection of hundreds of additional free learning resources.
 
 ### General
@@ -13,11 +14,17 @@ This page contains free resources to help children learn while at home during th
 * [Kid's Academy](https://www.youtube.com/channel/UCqb89GqploCXgz4lsdR-_ww/playlists) - Collection of educational playlists (videos) for kids.
 * [freekidsbooks.org](https://freekidsbooks.org/) - Collection of free books for kids
 * [Kids Encyclopedia Facts](https://kids.kiddle.co/) - Children's Encyclopedia with 70,000+ articles
+* [PBS Learning Media](https://kcts9.pbslearningmedia.org/) - Free, curated content covering practically all subjects, Kindergarten through grade 12.
+
+### Lesson Plans
+
+* [education.com](https://www.education.com/lesson-plans/) - Thousands of lesson plans. Requires a free sign-up.
 
 ### Math
 
 * [Dad's Worksheets](https://www.dadsworksheets.com/worksheets.html) - Over 9,000 worksheets covering basic math through high school, organized by topic and by grade level.
 * [Free Math Worksheets](https://www.math-drills.com/) - Printable worksheets for learning and drilling math.
+* [Mathigon](https://mathigon.org/) - Free online math textbook for grades 6 through 12.
 
 ### History
 
@@ -39,6 +46,9 @@ This page contains free resources to help children learn while at home during th
 ### Foreign Language
 
 * [fabulingua.com/](https://www.fabulingua.com/) - Kids mobile app for learning a second language. Temporarily free due to COVID-19.
+* [education.com - Spanish Language Worksheets](https://www.education.com/worksheets/spanish/)
+* [education.com - French Language Worksheets](https://www.education.com/worksheets/french/)
+* [education.com - German Language Worksheets](https://www.education.com/worksheets/german/)
 
 ### The Arts
 
