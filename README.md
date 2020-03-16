@@ -7,6 +7,7 @@ This page contains free resources to help children learn while at home during th
 
 * [Khan Academy](https://www.khanacademy.org/) - A world-class education, covering math, science, engineering, computing, arts, humanities, economics, and more. 
 * [Scholastic Learn at Home](https://classroommagazines.scholastic.com/support/learnathome.html) - Provides a cross-curriculum experience for Pre-K through grades 6+. Provides about three hours per day of content.
+* [BrainPOP](https://educators.brainpop.com/2020/02/19/free-brainpop-access-for-schools-affected-by-the-corona-virus/?utm_source=organic&utm_medium=social&utm_campaign=coronavirus&utm_content=free-access) - Free access for students at schools affected by COVID-19.
 * [Simple Wikipedia](https://simple.wikipedia.org/wiki/Main_Page) - 150k articles from Wikipedia, written in simplified language for children and adults who are learning English.
 * [Ducksters](https://www.ducksters.com/) - Educational content covering history (US and World), Science, Geography, and Biographies.
 * [Kid's Academy](https://www.youtube.com/channel/UCqb89GqploCXgz4lsdR-_ww/playlists) - Collection of educational playlists (videos) for kids.
@@ -41,3 +42,4 @@ This page contains free resources to help children learn while at home during th
 
 ### The Arts
 
+* [The Metropolitan Opera](https://www.metopera.org/about/press-releases/met-to-launch-nightly-met-opera-streams-a-free-series-of-encore-live-in-hd-presentations-streamed-on-the-company-website-during-the-coronavirus-closure/) - Free "Live in HD" series, delivered nightly during March 2020.
